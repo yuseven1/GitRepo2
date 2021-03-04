@@ -5,4 +5,5 @@
 public class Student {
     private int aga;
     private String name;
+    private double weight;
 }
